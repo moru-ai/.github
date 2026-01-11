@@ -18,11 +18,11 @@ Moru provides secure sandbox infrastructure for AI agents. Each sandbox runs in 
 
 - [Moru](https://github.com/moru-ai/moru): Python SDK (`moru`) and JavaScript SDK (`@moru-ai/core`) for sandbox control
 - [Sandbox Infrastructure](https://github.com/moru-ai/sandbox-infra): Open-source Firecracker-based sandbox infrastructure
-- [Maru](https://github.com/moru-ai/maru): AI coding agent platform
+- [Maru](https://github.com/moru-ai/maru): General purpose AI agent using Claude Agent SDK and Moru
 
 <h3>Examples</h3>
 
-- [Maru](https://github.com/moru-ai/maru): AI coding agent running in Moru sandboxes with full development environment
+- [Maru](https://github.com/moru-ai/maru): General purpose AI agent using Claude Agent SDK and Moru
 
 <h3>Learn More</h3>
 
