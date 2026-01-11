@@ -12,7 +12,7 @@ Moru provides secure sandbox infrastructure for AI agents. Each sandbox runs in 
 
 <h3>Getting Started</h3>
 
-- Read our documentation at [moru.io/docs](https://moru.io/docs)
+- Start with the [Quickstart guide](https://moru.io/docs/quickstart)
 
 <h3>Repositories</h3>
 
@@ -26,4 +26,4 @@ Moru provides secure sandbox infrastructure for AI agents. Each sandbox runs in 
 
 <h3>Learn More</h3>
 
-Visit [moru.io](https://moru.io) for documentation and pricing.
+Visit [moru.io/docs](https://moru.io/docs) for documentation.
