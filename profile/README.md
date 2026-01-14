@@ -22,7 +22,7 @@ Moru provides secure sandbox infrastructure for AI agents. Each sandbox runs in 
 
 <h3>Examples</h3>
 
-- [Maru](https://github.com/moru-ai/maru): A web clone of Claude Code built with Moru sandboxes and Claude Agent SDK.
+- [Maru](https://github.com/moru-ai/maru): A research assistant built with Moru sandbox and Claude Agent SDK.
 
 <h3>Learn More</h3>
 
